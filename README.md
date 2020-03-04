@@ -15,4 +15,3 @@ Todo List
 - [ ] Add Firebase feature
 - [ ] Launch emulator
 - [ ] Upgrade CLI
-
