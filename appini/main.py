@@ -2,7 +2,7 @@ import os
 from shutil import copyfile
 import fileinput
 import io
-import shutil
+#import shutil
 
 def create(title, website, website_url, org, description):
     #Flutter project create with given information
@@ -10,7 +10,7 @@ def create(title, website, website_url, org, description):
 
     #delete old code 
     os.remove(os.getcwd()+"/%s/lib/main.dart" %website)
-    shutil.rmtree(os.getcwd()+"/%s/test"%website)
+    #shutil.rmtree(os.getcwd()+"/%s/test"%website) TEMP FIX! Could use command line to delete folder...
 
     #write new main.dart
     maindart= open(os.getcwd()+"/%s/lib/main.dart" %website, "w")
