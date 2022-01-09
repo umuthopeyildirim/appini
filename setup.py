@@ -12,7 +12,7 @@ setup(
     name = "appini",
     version = "0.0.2",
     author = "Umut YILDIRIM",
-    author_email = "umut374@gmail.com",
+    author_email = "umut475@gmail.com",
     description = ("A tool to create mobile apps from websites "
                                    "using flutter and dart."),
     license = "GNU",
