@@ -5,7 +5,7 @@ Command Line Interface that generates mobile apps from responsive websites.
 ## Installation
 Installation is very simple
 ```$ pip install appini```
-Also check out flutter installation guide [from here!] (https://flutter.dev/docs/get-started/install/)
+Also check out flutter installation guide [from here!](https://flutter.dev/docs/get-started/install/)
 ## Usage 
 Just type ```$ appini``` from your favorite terminal.
 
