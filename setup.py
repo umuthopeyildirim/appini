@@ -23,9 +23,9 @@ setup(
     long_description=read('README.md'),
     long_description_content_type="text/markdown",
     project_urls={
-        "Bug Tracker": "https://gitlab.com/HopeSweaty/appini/issues",
+        "Bug Tracker": "https://github.com/umuthopeyildirim/appini/issues",
         "Documentation": "https://docs.appini.ml/CLI/get_started/",
-        "Source Code": "https://gitlab.com/HopeSweaty/appini/",
+        "Source Code": "https://github.com/umuthopeyildirim/appini/",
     },
     # python_requires='>=3.5',
     classifiers=[
